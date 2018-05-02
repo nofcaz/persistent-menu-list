@@ -1,4 +1,4 @@
-# Practice With Persistent Item Lists
+# Practice with Persistent Item Lists
 
 This simple application allows the user to create their own list of menu items for an imaginary restaurant. To accomplish this, the user would type their desired items into the textbox and either click the adjacent button or press the Enter key to input them, and the list items they create will remain active even after the page is refreshed. Also, the option to check the list items with their associated checkboxes exhibits an additional functionality should the menu application be implemented in an actual restaurant's website.
 
